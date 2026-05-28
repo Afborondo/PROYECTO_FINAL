@@ -795,7 +795,7 @@ La combinación entre ETL en Python y modelado analítico en Power BI permitió 
 
 # 🔄 Próximos Pasos
 
-* Dashboard en tiempo real totalmente automatizado: ejecución en la nube, migración del almacenamiento en base de datos, implementación del tiempo real o bajo demanda
+* Dashboard en tiempo real totalmente automatizado: ejecución en la nube, migración del almacenamiento a base de datos, implementación del tiempo real o bajo demanda desde PowerBI
 * Modelos predictivos de churn.
 * Segmentación avanzada.
 * Forecasting de ocupación.
