@@ -1,0 +1,636 @@
+[
+  {
+    "sid": "/️-proyecto-final--eda-etl-y-dashboard-de-un-gimnasio-con-virtuagym",
+    "title": "🏋️ Proyecto Final — EDA, ETL y Dashboard de un Gimnasio con Virtuagym",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/-descripción-del-proyecto",
+        "title": "📖 Descripción del Proyecto",
+        "level": 2,
+        "parent": "/️-proyecto-final--eda-etl-y-dashboard-de-un-gimnasio-con-virtuagym",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/-objetivo-del-proyecto",
+    "title": "🎯 Objetivo del Proyecto",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/clientes",
+        "title": "Clientes",
+        "level": 2,
+        "parent": "/-objetivo-del-proyecto",
+        "children": []
+      },
+      {
+        "sid": "/altas-y-bajas",
+        "title": "Altas y bajas",
+        "level": 2,
+        "parent": "/-objetivo-del-proyecto",
+        "children": []
+      },
+      {
+        "sid": "/visitas-al-gimnasio",
+        "title": "Visitas al gimnasio",
+        "level": 2,
+        "parent": "/-objetivo-del-proyecto",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/️-herramientas-utilizadas",
+    "title": "🛠️ Herramientas Utilizadas",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/etl-y-análisis-de-datos",
+        "title": "ETL y análisis de datos",
+        "level": 2,
+        "parent": "/️-herramientas-utilizadas",
+        "children": []
+      },
+      {
+        "sid": "/dashboard-y-visualización",
+        "title": "Dashboard y visualización",
+        "level": 2,
+        "parent": "/️-herramientas-utilizadas",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/️-11-eda-comprensión-general-de-los-datos-carga-de-los-datos",
+    "title": "🗂️ 1.1 EDA. Comprensión general de los datos. Carga de los datos.",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/️-arquitectura-etl",
+    "title": "⚙️ Arquitectura ETL",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/gestión-del-api",
+        "title": "Gestión del API",
+        "level": 2,
+        "parent": "/️-arquitectura-etl",
+        "children": []
+      },
+      {
+        "sid": "/conversión-a-dataframes",
+        "title": "Conversión a DataFrames",
+        "level": 2,
+        "parent": "/️-arquitectura-etl",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/-actualización-de-datos",
+    "title": "🔄 Actualización de Datos",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/-12-eda-comprensión-general-de-los-datos-vista-rápida-tipos-de-datos-estadística-descriptiva-resumen-estadístico",
+    "title": "📊 1.2 EDA: Comprensión general de los datos. Vista rápida. Tipos de datos. Estadística descriptiva. Resumen estadístico.",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/técnicas-utilizadas",
+        "title": "Técnicas utilizadas",
+        "level": 2,
+        "parent": "/-12-eda-comprensión-general-de-los-datos-vista-rápida-tipos-de-datos-estadística-descriptiva-resumen-estadístico",
+        "children": []
+      },
+      {
+        "sid": "/métodos-principales-de-pandas",
+        "title": "Métodos principales de pandas",
+        "level": 2,
+        "parent": "/-12-eda-comprensión-general-de-los-datos-vista-rápida-tipos-de-datos-estadística-descriptiva-resumen-estadístico",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/primeras-filas",
+    "title": "Primeras filas",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/información-del-dataset",
+    "title": "Información del dataset",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/estadísticos-descriptivos",
+    "title": "Estadísticos descriptivos",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/club-members",
+        "title": "CLUB MEMBERS",
+        "level": 2,
+        "parent": "/estadísticos-descriptivos",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/-2-eda-transformación-y-limpieza",
+    "title": "📊 2. EDA: Transformación y limpieza",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/técnicas",
+        "title": "Técnicas",
+        "level": 2,
+        "parent": "/-2-eda-transformación-y-limpieza",
+        "children": []
+      },
+      {
+        "sid": "/club-members-1",
+        "title": "CLUB MEMBERS",
+        "level": 2,
+        "parent": "/-2-eda-transformación-y-limpieza",
+        "children": []
+      },
+      {
+        "sid": "/membership-definition",
+        "title": "MEMBERSHIP DEFINITION",
+        "level": 2,
+        "parent": "/-2-eda-transformación-y-limpieza",
+        "children": []
+      },
+      {
+        "sid": "/membership-instances",
+        "title": "MEMBERSHIP INSTANCES",
+        "level": 2,
+        "parent": "/-2-eda-transformación-y-limpieza",
+        "children": []
+      },
+      {
+        "sid": "/club-visits",
+        "title": "CLUB VISITS",
+        "level": 2,
+        "parent": "/-2-eda-transformación-y-limpieza",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/-consolidación-de-datasets",
+    "title": "🔗 CONSOLIDACIÓN DE DATASETS",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/-generación-de-ficheros-de-datos",
+    "title": "📁 GENERACIÓN DE FICHEROS DE DATOS",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/-dashboard-y-visualización",
+        "title": "📈 Dashboard y Visualización",
+        "level": 2,
+        "parent": "/-generación-de-ficheros-de-datos",
+        "children": []
+      },
+      {
+        "sid": "/principio-de-diseño",
+        "title": "Principio de diseño",
+        "level": 2,
+        "parent": "/-generación-de-ficheros-de-datos",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/-preparación-del-modelo-en-power-bi",
+    "title": "🧠 Preparación del Modelo en Power BI",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/",
+        "title": "",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": []
+      },
+      {
+        "sid": "/-dashboard-kpis-y-métricas-analizadas",
+        "title": "📌 Dashboard: KPIs y Métricas Analizadas",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": []
+      },
+      {
+        "sid": "/1-resumen-ejecutivo",
+        "title": "1. “Resumen ejecutivo”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/estructura",
+            "title": "Estructura",
+            "level": 3,
+            "parent": "/1-resumen-ejecutivo",
+            "children": []
+          },
+          {
+            "sid": "/primera-franja",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/1-resumen-ejecutivo",
+            "children": []
+          },
+          {
+            "sid": "/segunda-franja",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/1-resumen-ejecutivo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/2-clientes-caracterización",
+        "title": "2. “Clientes. Caracterización”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/estructura-1",
+            "title": "Estructura",
+            "level": 3,
+            "parent": "/2-clientes-caracterización",
+            "children": []
+          },
+          {
+            "sid": "/primera-franja-1",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/2-clientes-caracterización",
+            "children": []
+          },
+          {
+            "sid": "/segunda-franja-1",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/2-clientes-caracterización",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/3-clientesvisitas",
+        "title": "3. “Clientes.Visitas.”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/estructura-2",
+            "title": "Estructura",
+            "level": 3,
+            "parent": "/3-clientesvisitas",
+            "children": []
+          },
+          {
+            "sid": "/primera-franja-2",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/3-clientesvisitas",
+            "children": []
+          },
+          {
+            "sid": "/segunda-franja-2",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/3-clientesvisitas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/4-centro-ocupación-evolutivo-mensual",
+        "title": "4. “Centro. Ocupación. Evolutivo Mensual”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/primera-franja-3",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/4-centro-ocupación-evolutivo-mensual",
+            "children": []
+          },
+          {
+            "sid": "/segunda-franja-3",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/4-centro-ocupación-evolutivo-mensual",
+            "children": []
+          },
+          {
+            "sid": "/segunda-franja-4",
+            "title": "Segunda Franja",
+            "level": 3,
+            "parent": "/4-centro-ocupación-evolutivo-mensual",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/5-centro-ocupación-evolutivo-diario",
+        "title": "5. “Centro. Ocupación. Evolutivo diario”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": []
+      },
+      {
+        "sid": "/6-mapa-de-calor-de-ocupación-día-hora",
+        "title": "6. “Mapa de Calor de Ocupación día-hora”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": []
+      },
+      {
+        "sid": "/7-altas-caracterización",
+        "title": "7. “Altas. Caracterización”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/estructura-3",
+            "title": "Estructura",
+            "level": 3,
+            "parent": "/7-altas-caracterización",
+            "children": []
+          },
+          {
+            "sid": "/primera-franja-4",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/7-altas-caracterización",
+            "children": [
+              {
+                "sid": "/1-altas-hoy",
+                "title": "1. “Altas hoy”",
+                "level": 4,
+                "parent": "/primera-franja-4",
+                "children": []
+              },
+              {
+                "sid": "/2-de-las-altas-en-los-útimos-30-días",
+                "title": "2. De las altas en los útimos 30 días",
+                "level": 4,
+                "parent": "/primera-franja-4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "sid": "/segunda-franja-5",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/7-altas-caracterización",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/8-altas-engagement",
+        "title": "8. “Altas. Engagement.”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/primera-franja-5",
+            "title": "Primera Franja",
+            "level": 3,
+            "parent": "/8-altas-engagement",
+            "children": []
+          },
+          {
+            "sid": "/segunda-franja-6",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/8-altas-engagement",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/9-bajas-caracterización",
+        "title": "9. “Bajas. Caracterización”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/estructura-4",
+            "title": "Estructura",
+            "level": 3,
+            "parent": "/9-bajas-caracterización",
+            "children": []
+          },
+          {
+            "sid": "/primera-franja-6",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/9-bajas-caracterización",
+            "children": [
+              {
+                "sid": "/1-bajas-hoy",
+                "title": "1. “Bajas hoy”",
+                "level": 4,
+                "parent": "/primera-franja-6",
+                "children": []
+              },
+              {
+                "sid": "/2-de-las-bajas-en-los-útimos-30-días",
+                "title": "2. De las bajas en los útimos 30 días",
+                "level": 4,
+                "parent": "/primera-franja-6",
+                "children": []
+              }
+            ]
+          },
+          {
+            "sid": "/segunda-franja-7",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/9-bajas-caracterización",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/10-bajas-engagement",
+        "title": "10. “Bajas. Engagement.”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/primera-franja-7",
+            "title": "Primera Franja",
+            "level": 3,
+            "parent": "/10-bajas-engagement",
+            "children": []
+          },
+          {
+            "sid": "/segunda-franja-8",
+            "title": "Segunda franja",
+            "level": 3,
+            "parent": "/10-bajas-engagement",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/11-altas-cohortes",
+        "title": "11. “Altas. Cohortes”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": []
+      },
+      {
+        "sid": "/12-altas-cohortes-resumen",
+        "title": "12. “Altas. Cohortes. Resumen”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/primera-franja-8",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/12-altas-cohortes-resumen",
+            "children": []
+          },
+          {
+            "sid": "/franja-de-abajo",
+            "title": "Franja de abajo",
+            "level": 3,
+            "parent": "/12-altas-cohortes-resumen",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/13-bajas-cohortes",
+        "title": "13. “Bajas. Cohortes”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": []
+      },
+      {
+        "sid": "/14-bajas-cohortes-resumen",
+        "title": "14. “Bajas. Cohortes. Resumen”",
+        "level": 2,
+        "parent": "/-preparación-del-modelo-en-power-bi",
+        "children": [
+          {
+            "sid": "/primera-franja-9",
+            "title": "Primera franja",
+            "level": 3,
+            "parent": "/14-bajas-cohortes-resumen",
+            "children": []
+          },
+          {
+            "sid": "/franja-de-abajo-1",
+            "title": "Franja de abajo",
+            "level": 3,
+            "parent": "/14-bajas-cohortes-resumen",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sid": "/️-estructura-del-proyecto",
+    "title": "🗂️ Estructura del Proyecto",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/️-instalación-y-requisitos",
+    "title": "⚙️ Instalación y Requisitos",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/clonar-el-repositorio",
+        "title": "Clonar el repositorio",
+        "level": 2,
+        "parent": "/️-instalación-y-requisitos",
+        "children": []
+      },
+      {
+        "sid": "/crear-entorno-virtual",
+        "title": "Crear entorno virtual",
+        "level": 2,
+        "parent": "/️-instalación-y-requisitos",
+        "children": [
+          {
+            "sid": "/windows",
+            "title": "Windows",
+            "level": 3,
+            "parent": "/crear-entorno-virtual",
+            "children": []
+          },
+          {
+            "sid": "/linux--mac",
+            "title": "Linux / Mac",
+            "level": 3,
+            "parent": "/crear-entorno-virtual",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/instalar-dependencias",
+        "title": "Instalar dependencias",
+        "level": 2,
+        "parent": "/️-instalación-y-requisitos",
+        "children": []
+      },
+      {
+        "sid": "/configurar-variables-de-entorno",
+        "title": "Configurar variables de entorno",
+        "level": 2,
+        "parent": "/️-instalación-y-requisitos",
+        "children": []
+      },
+      {
+        "sid": "/ejecutar-notebook",
+        "title": "Ejecutar notebook",
+        "level": 2,
+        "parent": "/️-instalación-y-requisitos",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/-resultados-y-conclusiones",
+    "title": "📊 Resultados y Conclusiones",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/-próximos-pasos",
+    "title": "🔄 Próximos Pasos",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/️-autor",
+    "title": "✒️ Autor",
+    "level": 1,
+    "children": []
+  }
+]
