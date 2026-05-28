@@ -675,7 +675,7 @@ Es el evolutivo mensual por mes de antigüedad de:
 * distribución de las altas por segmentos de experiencia (saturación del centro)
 * y duración promedio de la visita en minutos.
 
-Como son gráficos agrupados por antigüedad, se han puesto arriba de la página segmentador por:
+Como son gráficos agrupados por antigüedad, arriba de la página existen varios segmentadores por:
 
 * cohorte (mes-año),
 * sexo,
@@ -720,7 +720,7 @@ Es el evolutivo mensual por mes de antigüedad inversa de:
 * distribución de las bajas por segmentos de experiencia (saturación del centro)
 * y duración promedio de la visita en minutos.
 
-Como son gráficos agrupados por antigüedad, se han puesto arriba de la página segmentador por:
+Como son gráficos agrupados por antigüedad, arriba de la página existen varios segmentadores por:
 
 * cohorte (mes-año),
 * sexo,
